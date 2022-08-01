@@ -21,7 +21,7 @@ Abra o terminal/Powershell e rode os comandos abaixo:
 Clonando o repositório:
 
 ```
-git clone https://github.com/cinmcantu/ToDoAPI-T17.git
+git clone https://github.com/Inaralmeida/Backend-resilia-store.git
 ```
 
 Entrando na pasta:
