@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import { produtosController } from "./controller/produtosController.js";
 
-const port = 3300;
+const port = 3300 || env.PORT;
 
 const app = express();
 
