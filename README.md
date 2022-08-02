@@ -27,7 +27,7 @@ git clone https://github.com/Inaralmeida/Backend-resilia-store.git
 Entrando na pasta:
 
 ```
-cd backend
+cd Backend-resilia-store
 ```
 
 Instalando os pacotes:
